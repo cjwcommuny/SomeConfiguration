@@ -1,2 +1,2 @@
 # SomeConfiguration
-This repo stores some tips for configurations of Mac
+This repo stores some tips for configurations of Mac.
