@@ -1,0 +1,302 @@
+[
+    {
+        "metadata": {
+            "id": "5a8b9107-e667-4ec8-a792-d066a93b9eff",
+            "publisherId": "ms-python.anaconda-extension-pack",
+            "publisherDisplayName": "ms-python"
+        },
+        "name": "anaconda-extension-pack",
+        "publisher": "ms-python",
+        "version": "1.0.0"
+    },
+    {
+        "metadata": {
+            "id": "a6a0c5b2-d078-4bf5-a9ee-4e37054414b3",
+            "publisherId": "formulahendry.code-runner",
+            "publisherDisplayName": "formulahendry"
+        },
+        "name": "code-runner",
+        "publisher": "formulahendry",
+        "version": "0.9.4"
+    },
+    {
+        "metadata": {
+            "id": "e337c67b-55c2-4fef-8949-eb260e7fb7fd",
+            "publisherId": "Shan.code-settings-sync",
+            "publisherDisplayName": "Shan"
+        },
+        "name": "code-settings-sync",
+        "publisher": "Shan",
+        "version": "3.1.2"
+    },
+    {
+        "metadata": {
+            "id": "de6b050f-fdaf-44fd-a405-e504d308661b",
+            "publisherId": "matthewferreira.cppcheck",
+            "publisherDisplayName": "matthewferreira"
+        },
+        "name": "cppcheck",
+        "publisher": "matthewferreira",
+        "version": "0.2.2"
+    },
+    {
+        "metadata": {
+            "id": "90670949-84b7-45a3-9697-4ecfa203998c",
+            "publisherId": "mine.cpplint",
+            "publisherDisplayName": "mine"
+        },
+        "name": "cpplint",
+        "publisher": "mine",
+        "version": "0.1.3"
+    },
+    {
+        "metadata": {
+            "id": "690b692e-e8a9-493f-b802-8089d50ac1b2",
+            "publisherId": "ms-vscode.cpptools",
+            "publisherDisplayName": "ms-vscode"
+        },
+        "name": "cpptools",
+        "publisher": "ms-vscode",
+        "version": "0.19.0"
+    },
+    {
+        "metadata": {
+            "id": "4f846889-2416-4974-93cc-20ffd528cd4e",
+            "publisherId": "UCL.haskelly",
+            "publisherDisplayName": "UCL"
+        },
+        "name": "haskelly",
+        "publisher": "UCL",
+        "version": "0.5.4"
+    },
+    {
+        "metadata": {
+            "id": "7b71fc1b-190d-4f7d-95d1-93e422649b0a",
+            "publisherId": "Zignd.html-css-class-completion",
+            "publisherDisplayName": "Zignd"
+        },
+        "name": "html-css-class-completion",
+        "publisher": "Zignd",
+        "version": "1.17.1"
+    },
+    {
+        "metadata": {
+            "id": "be992f3f-9f22-4b66-a1d2-ecad04c28a28",
+            "publisherId": "abusaidm.html-snippets",
+            "publisherDisplayName": "abusaidm"
+        },
+        "name": "html-snippets",
+        "publisher": "abusaidm",
+        "version": "0.2.1"
+    },
+    {
+        "metadata": {
+            "id": "198a707e-28af-4e84-8610-6e2f628dd12d",
+            "publisherId": "redhat.java",
+            "publisherDisplayName": "redhat"
+        },
+        "name": "java",
+        "publisher": "redhat",
+        "version": "0.32.0"
+    },
+    {
+        "metadata": {
+            "id": "270c1d3b-a657-446f-83b8-ab32fd7af006",
+            "publisherId": "justusadam.language-haskell",
+            "publisherDisplayName": "justusadam"
+        },
+        "name": "language-haskell",
+        "publisher": "justusadam",
+        "version": "2.5.0"
+    },
+    {
+        "metadata": {
+            "id": "038dd41f-4a41-48e3-87de-ab2ea4310780",
+            "publisherId": "julialang.language-julia",
+            "publisherDisplayName": "julialang"
+        },
+        "name": "language-julia",
+        "publisher": "julialang",
+        "version": "0.10.3"
+    },
+    {
+        "metadata": {
+            "id": "26a529c9-2654-4b95-a63f-02f6a52429e6",
+            "publisherId": "zhuangtongfa.Material-theme",
+            "publisherDisplayName": "zhuangtongfa"
+        },
+        "name": "Material-theme",
+        "publisher": "zhuangtongfa",
+        "version": "2.17.3"
+    },
+    {
+        "metadata": {
+            "id": "79afa437-682e-4fa2-a4fd-87844832a1dc",
+            "publisherId": "ryu1kn.partial-diff",
+            "publisherDisplayName": "ryu1kn"
+        },
+        "name": "partial-diff",
+        "publisher": "ryu1kn",
+        "version": "1.4.0"
+    },
+    {
+        "metadata": {
+            "id": "f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5",
+            "publisherId": "ms-python.python",
+            "publisherDisplayName": "ms-python"
+        },
+        "name": "python",
+        "publisher": "ms-python",
+        "version": "2018.9.0"
+    },
+    {
+        "metadata": {
+            "id": "21e07abb-b9df-418d-8224-c96f1290ec7f",
+            "publisherId": "rafaelmaiolla.remote-vscode",
+            "publisherDisplayName": "rafaelmaiolla"
+        },
+        "name": "remote-vscode",
+        "publisher": "rafaelmaiolla",
+        "version": "1.1.0"
+    },
+    {
+        "metadata": {
+            "id": "ae062c8a-c68e-4b92-9ecf-8f1d4288b05d",
+            "publisherId": "rebornix.ruby",
+            "publisherDisplayName": "rebornix"
+        },
+        "name": "ruby",
+        "publisher": "rebornix",
+        "version": "0.20.0"
+    },
+    {
+        "metadata": {
+            "id": "76e37267-9f32-4816-b6c8-47a3928b94c9",
+            "publisherId": "Tyriar.shell-launcher",
+            "publisherDisplayName": "Tyriar"
+        },
+        "name": "shell-launcher",
+        "publisher": "Tyriar",
+        "version": "0.2.0"
+    },
+    {
+        "metadata": {
+            "id": "0ed8b184-ab4d-4153-a0cc-c62950e876c5",
+            "publisherId": "vahidk.tensorflow-snippets",
+            "publisherDisplayName": "vahidk"
+        },
+        "name": "tensorflow-snippets",
+        "publisher": "vahidk",
+        "version": "0.3.3"
+    },
+    {
+        "metadata": {
+            "id": "186ace18-2b44-490d-863e-0bd29b229a27",
+            "publisherId": "formulahendry.terminal",
+            "publisherDisplayName": "formulahendry"
+        },
+        "name": "terminal",
+        "publisher": "formulahendry",
+        "version": "0.0.10"
+    },
+    {
+        "metadata": {
+            "id": "6ad45f5a-09ec-44e5-b363-867ddc1ec674",
+            "publisherId": "shardulm94.trailing-spaces",
+            "publisherDisplayName": "shardulm94"
+        },
+        "name": "trailing-spaces",
+        "publisher": "shardulm94",
+        "version": "0.2.11"
+    },
+    {
+        "metadata": {
+            "id": "ac550d21-0dae-41d0-9157-9723f9332e44",
+            "publisherId": "arthurwang.vsc-prolog",
+            "publisherDisplayName": "arthurwang"
+        },
+        "name": "vsc-prolog",
+        "publisher": "arthurwang",
+        "version": "0.8.18"
+    },
+    {
+        "metadata": {
+            "id": "f8dbe169-d649-4e4b-adb8-ffa113c1d616",
+            "publisherId": "mitaki28.vscode-clang",
+            "publisherDisplayName": "mitaki28"
+        },
+        "name": "vscode-clang",
+        "publisher": "mitaki28",
+        "version": "0.2.2"
+    },
+    {
+        "metadata": {
+            "id": "9ccc1dd7-7ec4-4a46-bd4f-7d7b8b9d322a",
+            "publisherId": "robertohuertasm.vscode-icons",
+            "publisherDisplayName": "robertohuertasm"
+        },
+        "name": "vscode-icons",
+        "publisher": "robertohuertasm",
+        "version": "7.27.0"
+    },
+    {
+        "metadata": {
+            "id": "61fcd0cf-64d7-4836-8d6b-d55f4fb83281",
+            "publisherId": "vscjava.vscode-java-debug",
+            "publisherDisplayName": "vscjava"
+        },
+        "name": "vscode-java-debug",
+        "publisher": "vscjava",
+        "version": "0.14.0"
+    },
+    {
+        "metadata": {
+            "id": "96f11e1f-1a46-4592-b084-f025b2c2a81f",
+            "publisherId": "vscjava.vscode-java-pack",
+            "publisherDisplayName": "vscjava"
+        },
+        "name": "vscode-java-pack",
+        "publisher": "vscjava",
+        "version": "0.4.0"
+    },
+    {
+        "metadata": {
+            "id": "67c06b0d-1891-42ca-b2a8-113e79bff069",
+            "publisherId": "vscjava.vscode-java-test",
+            "publisherDisplayName": "vscjava"
+        },
+        "name": "vscode-java-test",
+        "publisher": "vscjava",
+        "version": "0.9.0"
+    },
+    {
+        "metadata": {
+            "id": "e4ee7751-6514-4731-9cdb-7580ffa9e70b",
+            "publisherId": "MS-CEINTL.vscode-language-pack-zh-hans",
+            "publisherDisplayName": "MS-CEINTL"
+        },
+        "name": "vscode-language-pack-zh-hans",
+        "publisher": "MS-CEINTL",
+        "version": "1.27.2"
+    },
+    {
+        "metadata": {
+            "id": "b0f06c6b-24fb-4d7b-bd79-bc5e2fa17312",
+            "publisherId": "vscjava.vscode-maven",
+            "publisherDisplayName": "vscjava"
+        },
+        "name": "vscode-maven",
+        "publisher": "vscjava",
+        "version": "0.11.0"
+    },
+    {
+        "metadata": {
+            "id": "2061917f-f76a-458a-8da9-f162de22b97e",
+            "publisherId": "redhat.vscode-yaml",
+            "publisherDisplayName": "redhat"
+        },
+        "name": "vscode-yaml",
+        "publisher": "redhat",
+        "version": "0.0.17"
+    }
+]
