@@ -1,0 +1,14 @@
+{
+    "editor.minimap.enabled": true,
+    "workbench.activityBar.visible": false,
+    "window.openFilesInNewWindow": "default",
+    "editor.formatOnType": true,
+    "editor.acceptSuggestionOnEnter": "off",
+    "files.autoSave": "afterDelay",
+    "editor.lineHeight": 22,
+    "editor.fontFamily": "Source Code Pro, Pingfang SC, 'Courier New', monospace",
+    "editor.fontSize": 15,
+    "workbench.colorTheme": "One Dark Pro",
+    "vsicons.dontShowNewVersionMessage": true,
+    "git.ignoreMissingGitWarning": true,
+}

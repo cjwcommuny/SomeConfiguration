@@ -1,0 +1,90 @@
+tap "homebrew/bundle"
+tap "homebrew/cask"
+tap "homebrew/cask-fonts"
+tap "homebrew/core", "https://github.com/Homebrew/homebrew-core.git"
+tap "homebrew/services"
+brew "glib"
+brew "autojump"
+brew "bat"
+brew "clang-format"
+brew "cppcheck"
+brew "cpulimit"
+brew "exa"
+brew "gcc@7"
+brew "gdb"
+brew "openssl"
+brew "haskell-stack"
+brew "htop"
+brew "httpie"
+brew "mackup"
+brew "macvim"
+brew "mas"
+brew "maven"
+brew "mycli"
+brew "mysql"
+brew "neovim"
+brew "node"
+brew "opencv"
+brew "pgcli"
+brew "r"
+brew "ruby"
+brew "shc"
+brew "shellcheck"
+brew "swi-prolog"
+brew "tag"
+brew "tldr"
+brew "vim"
+brew "wget"
+brew "wtf"
+cask "aerial"
+cask "docker"
+cask "font-source-code-pro"
+cask "iterm2"
+cask "julia"
+cask "jupyter-notebook-viewer"
+cask "launchrocket"
+cask "lepton"
+cask "michaelvillar-timer"
+cask "qlmarkdown"
+cask "rar"
+mas "Adblock Plus", id: 1432731683
+mas "Affinity Designer", id: 824171161
+mas "Bear", id: 1091189122
+mas "Better Rename 10", id: 1063663640
+mas "Black Out", id: 1319884285
+mas "Enpass", id: 732710998
+mas "Folder Designer", id: 964860276
+mas "Get Plain Text", id: 508368068
+mas "GhosteryLite", id: 1436953057
+mas "GIF Brewery 3", id: 1081413713
+mas "Hex Fiend", id: 1342896380
+mas "iMovie", id: 408981434
+mas "Keynote", id: 409183694
+mas "Kindle", id: 405399194
+mas "LyricsX", id: 1254743014
+mas "Maipo", id: 789066512
+mas "MathStudio", id: 829912893
+mas "Monodraw", id: 920404675
+mas "NeteaseMusic", id: 944848654
+mas "Numbers", id: 409203825
+mas "Pages", id: 409201541
+mas "Paste", id: 967805235
+mas "Pixelmator", id: 407963104
+mas "Polarr Photo Editor", id: 1077124956
+mas "PopClip", id: 445189367
+mas "QQ", id: 451108668
+mas "QQLive", id: 1231336508
+mas "Reeder", id: 880001334
+mas "Table Tool", id: 1122008420
+mas "Taskheat", id: 1431995750
+mas "Telegram", id: 747648890
+mas "The Unarchiver", id: 425424353
+mas "Trello", id: 1278508951
+mas "Tweetbot", id: 557168941
+mas "WeChat", id: 836500024
+mas "Xcode", id: 497799835
+mas "Xcoverage", id: 945867728
+mas "Yoink", id: 457622435
+mas "Yummy FTP", id: 492068728
+mas "优酷", id: 1014945607
+mas "爱奇艺", id: 1012296988
